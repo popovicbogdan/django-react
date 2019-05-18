@@ -1,0 +1,11 @@
+.card-title {
+  color: rgb(212, 212, 212);
+}
+#title {
+  display: flex;
+  justify-content: center;
+}
+#navbarColor01 {
+  display: flex;
+  justify-content: flex-end;
+}
